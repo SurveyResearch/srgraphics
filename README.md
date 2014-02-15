@@ -55,7 +55,7 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
 
 ### Math
 
-These systems usually have powerful graphics subsystems.
+These systems usually have powerful graphics subsystems with support for drawing plots.
 
 #### Commercial
 Magma, Maple, Mathematica and Matlab.
@@ -63,4 +63,4 @@ Magma, Maple, Mathematica and Matlab.
 #### Free
   * [Sage](http://www.sagemath.org/) - "a free open-source mathematics software system"
   * [Maxima](http://maxima.sourceforge.net/) - "a computer algebra system"
-  * [Mathics](A free, light-weight alternative to Mathematica) - "A free, light-weight alternative to Mathematica"
+  * [Mathics](A free, light-weight alternative to Mathematica) - "a free, general-purpose online computer algebra system featuring Mathematica-compatible syntax and functions"
