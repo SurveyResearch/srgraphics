@@ -7,9 +7,11 @@ Also, we have:  graphics
 
  * Languages
    * Language implementations
- * APIs
+ * Programming libraries and APIs (e.g. Java graphics libraries, OpenGL, etc.)
  * Tools or utilities
  * Applications
+
+This repo focusses on doesn't pretend to be complete; there are just too many languages, tools, etc. out there that count as graphicky (e.g. see [](http://www.geos.ed.ac.uk/homes/hcp/idletc.html), 
 
 ## Drawing (vector graphics languages)
 
@@ -41,6 +43,9 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
 
   * [Gnuplot](http://www.gnuplot.info/)
   * [R graphics](http://cran.r-project.org/web/views/Graphics.html) (plotting) ([wikibook](http://en.wikibooks.org/wiki/R_Programming/Graphics))
+  * [Yorick](http://yorick.sourceforge.net/)
+  * [IDL](http://www.exelisvis.com/ProductsServices/IDL.aspx) (free version: [GDL](http://gnudatalanguage.sourceforge.net/))
+  * [Tableau](http://www.tableausoftware.com/) (commercial)
 
 ### Tools and Utilities
 
