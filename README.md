@@ -53,3 +53,11 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
 
   * [GraphicsMagick](http://www.graphicsmagick.org/) - terrific set of very powerful command line tools - "the swiss army knife of image processing".  GraphicsMagick is a fork of an older project called [ImageMagick](http://www.imagemagick.org/).  They're very similar, but the buzz on the web is that GraphicsMagick is faster.
 
+### Math
+#### Commercial
+Magma, Maple, Mathematica and Matlab.
+
+#### Free
+  * [Sage](http://www.sagemath.org/) - "a free open-source mathematics software system"
+  * [Maxima](http://maxima.sourceforge.net/) - "a computer algebra system"
+  * [Mathics](A free, light-weight alternative to Mathematica) - "A free, light-weight alternative to Mathematica"
