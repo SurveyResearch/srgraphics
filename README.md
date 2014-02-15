@@ -54,6 +54,9 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
   * [GraphicsMagick](http://www.graphicsmagick.org/) - terrific set of very powerful command line tools - "the swiss army knife of image processing".  GraphicsMagick is a fork of an older project called [ImageMagick](http://www.imagemagick.org/).  They're very similar, but the buzz on the web is that GraphicsMagick is faster.
 
 ### Math
+
+These systems usually have powerful graphics subsystems.
+
 #### Commercial
 Magma, Maple, Mathematica and Matlab.
 
