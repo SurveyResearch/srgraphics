@@ -31,7 +31,8 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
   * [Metafont](http://en.wikipedia.org/wiki/Metafont).  Metafont was a language specifically designed for font design by Donald Knuth, to complement his [TeX](http://en.wikipedia.org/wiki/TeX) typesetting language/engine.  It isn't used much these days, but it featured a very elegant syntax which has been adopted by several modern general purpose graphics packages.
   * [Metapost](https://www.tug.org/metapost.html)  ([wikipedia](http://en.wikipedia.org/wiki/MetaPost)).  General purpose graphics engine with a Metafont-based syntax.
   * [Asymptote](http://asymptote.sourceforge.net/), "a powerful descriptive vector graphics language that provides a natural coordinate-based framework for technical drawing."  Syntax based on Metafont.
-  * [TikzPGF](http://en.wikipedia.org/wiki/PGF/TikZ), a pair very powerful graphics languages (PGF is low-level, TikZ a high-level language that uses PGF) implemented in TeX(!).  TikZ uses Metafont-like syntax for specifying drawing paths, with considerable enhancement.
+  * [TikZ/PGF](http://en.wikipedia.org/wiki/PGF/TikZ), a pair very powerful and elegant graphics languages (PGF is low-level, TikZ a high-level language that uses PGF) implemented in TeX(!).  TikZ uses Metafont-like syntax for specifying drawing paths, with considerable enhancement.  The most amazing graphics package going, IMHO.
+    *  [PGFPlots](http://pgfplots.sourceforge.net/) - "A LaTeX Package to create normal/logarithmic plots in two and three dimensions", based on TikZ/PGF
 
 #### Other vector graphics languages
   * [Postscript](http://en.wikipedia.org/wiki/PostScript) (see also [Ghostscript](http://www.ghostscript.com/), an open source Postscript and PDF interpreter)
