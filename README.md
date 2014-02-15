@@ -33,11 +33,13 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
   * [Asymptote](http://asymptote.sourceforge.net/), "a powerful descriptive vector graphics language that provides a natural coordinate-based framework for technical drawing."  Syntax based on Metafont.
   * [TikzPGF](http://en.wikipedia.org/wiki/PGF/TikZ), a pair very powerful graphics languages (PGF is low-level, TikZ a high-level language that uses PGF) implemented in TeX(!).  TikZ uses Metafont-like syntax for specifying drawing paths, with considerable enhancement.
 
-#### Postscript
+#### Other vector graphics languages
   * [Postscript](http://en.wikipedia.org/wiki/PostScript) (see also [Ghostscript](http://www.ghostscript.com/), an open source Postscript and PDF interpreter)
+  * [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) Scaleable Vector Graphics
 
 #### Other:
   * [Processing](http://processing.org/) & [processing.js](http://processingjs.org/)
+  * [GLE](http://glx.sourceforge.net/)
 
 ### Data Visualization - languages and software designed specifically for graphical display of data:
 
