@@ -34,6 +34,11 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
   * [TikZ/PGF](http://en.wikipedia.org/wiki/PGF/TikZ), a pair very powerful and elegant graphics languages (PGF is low-level, TikZ a high-level language that uses PGF) implemented in TeX(!).  TikZ uses Metafont-like syntax for specifying drawing paths, with considerable enhancement.  The most amazing graphics package going, IMHO.  Poke around in the [examples](http://www.texample.net/tikz/examples/) to see why.
     *  [PGFPlots](http://pgfplots.sourceforge.net/) - "A LaTeX Package to create normal/logarithmic plots in two and three dimensions", based on TikZ/PGF
 
+#### Functional languages
+
+  * [Shapes](http://lang-shapes.sourceforge.net/) - "a powerful functional drawing language with LATEX support"
+  * 
+
 #### Other vector graphics languages
   * [Postscript](http://en.wikipedia.org/wiki/PostScript) (see also [Ghostscript](http://www.ghostscript.com/), an open source Postscript and PDF interpreter)
   * [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) Scaleable Vector Graphics
@@ -41,6 +46,10 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
 #### Other:
   * [Processing](http://processing.org/) & [processing.js](http://processingjs.org/)
   * [GLE](http://glx.sourceforge.net/)
+  * 
+
+### Graphics Libraries for General Purpose Languages
+  * [Racket Drawing Toolkit](http://docs.racket-lang.org/draw/index.html) is one of several graphics libraries for [Racket](http://racket-lang.org/), a Scheme dialect.
 
 ### Data Visualization - languages and software designed specifically for graphical display of data:
 
