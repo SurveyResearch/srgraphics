@@ -50,6 +50,7 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
 
 ### Graphics Libraries for General Purpose Languages
   * [Matplotlib](http://matplotlib.org/) "a python 2D plotting library which produces publication quality figures"
+  * [JFreeChart](http://www.jfree.org/jfreechart/) "a free 100% Java chart library"
   * [Racket Drawing Toolkit](http://docs.racket-lang.org/draw/index.html) is one of several graphics libraries for [Racket](http://racket-lang.org/), a Scheme dialect.
 
 ### Data Visualization - languages and software designed specifically for graphical display of data:
