@@ -74,3 +74,4 @@ Magma, Maple, Mathematica and Matlab.
   * [Sage](http://www.sagemath.org/) - "a free open-source mathematics software system"
   * [Maxima](http://maxima.sourceforge.net/) - "a computer algebra system"
   * [Mathics](A free, light-weight alternative to Mathematica) - "a free, general-purpose online computer algebra system featuring Mathematica-compatible syntax and functions"
+  * [Gnu Octave](http://www.gnu.org/software/octave/)  "a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation...quite similar to Matlab>"
