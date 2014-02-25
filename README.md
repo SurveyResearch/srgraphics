@@ -49,6 +49,7 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
   * 
 
 ### Graphics Libraries for General Purpose Languages
+  * [Matplotlib](http://matplotlib.org/) "a python 2D plotting library which produces publication quality figures"
   * [Racket Drawing Toolkit](http://docs.racket-lang.org/draw/index.html) is one of several graphics libraries for [Racket](http://racket-lang.org/), a Scheme dialect.
 
 ### Data Visualization - languages and software designed specifically for graphical display of data:
@@ -62,6 +63,21 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
 ### Tools and Utilities
 
   * [GraphicsMagick](http://www.graphicsmagick.org/) - terrific set of very powerful command line tools - "the swiss army knife of image processing".  GraphicsMagick is a fork of an older project called [ImageMagick](http://www.imagemagick.org/).  They're very similar, but the buzz on the web is that GraphicsMagick is faster.
+  * [ESS](http://ess.r-project.org/) "Emacs Speaks Statistics ... an add-on package for emacs text editors such as GNU Emacs and XEmacs. It is designed to support editing of scripts and interaction with various statistical analysis programs such as R, S-Plus, SAS, Stata and JAGS."
+
+### Statistics, Data Visualization
+
+  * [Comparison of statistical packages](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)
+  * [Open source statistical packages](http://en.wikipedia.org/wiki/List_of_statistical_packages#Open_source_statistical_packages)
+  * [EDA](http://www.itl.nist.gov/div898/handbook/eda/eda.htm) Exploratory Data Analysis (NIST handbook)
+  * [R](http://www.r-project.org/) - see also [R Studio](http://www.rstudio.com/ide/)
+  * [Incanter](http://incanter.org/) "is a Clojure-based, R-like platform for statistical computing and graphics."
+  * [Gnu PSPP](https://www.gnu.org/software/pspp/) - "GNU PSPP is a program for statistical analysis of sampled data. It is a Free replacement for the proprietary program SPSS, and appears very similar to it with a few exceptions."
+  * [SOFA](http://www.sofastatistics.com/home.php) "Statistics Open For All - The user-friendly, open-source statistics, analysis, and reporting package."
+  * [Salstat](http://www.salstat.com/) "Rapid statistical analysis of scientific data" Python based [MORIBUND]
+  * [Gretl](http://gretl.sourceforge.net/) "Gnu Regression, Econometrics and Time-series Library" a cross-platform software package for econometric analysis
+  * [SCaViz](http://jwork.org/scavis/) "an environment for scientific computation, data analysis and data visualization designed for scientists, engineers and students" - Java-based
+  * [JAGS](http://mcmc-jags.sourceforge.net/) "Just Another Gibbs Sampler ... a program for analysis of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation  not wholly unlike BUGS."
 
 ### Math
 
