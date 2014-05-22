@@ -33,7 +33,7 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
   * [Asymptote](http://asymptote.sourceforge.net/), "a powerful descriptive vector graphics language that provides a natural coordinate-based framework for technical drawing."  Syntax based on Metafont.
   * [TikZ/PGF](http://en.wikipedia.org/wiki/PGF/TikZ), a pair very powerful and elegant graphics languages (PGF is low-level, TikZ a high-level language that uses PGF) implemented in TeX(!).  TikZ uses Metafont-like syntax for specifying drawing paths, with considerable enhancement.  The most amazing graphics package going, IMHO.  Poke around in the [examples](http://www.texample.net/tikz/examples/) to see why.
     *  [PGFPlots](http://pgfplots.sourceforge.net/) - "A LaTeX Package to create normal/logarithmic plots in two and three dimensions", based on TikZ/PGF
-
+ 
 #### Functional languages
 
   * [Shapes](http://lang-shapes.sourceforge.net/) - "a powerful functional drawing language with LATEX support"
@@ -46,7 +46,9 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
 #### Other:
   * [Processing](http://processing.org/) & [processing.js](http://processingjs.org/)
   * [GLE](http://glx.sourceforge.net/)
-  * 
+  * [JLatexMath](http://forge.scilab.org/index.php/p/jlatexmath/) "JLaTeXMath is a Java library. Its main purpose is to display mathematical formulas written in LaTeX. JLaTeXMath is the best Java library to display LaTeX code."
+  * [JEuclid](http://jeuclid.sourceforge.net/) "JEuclid is a complete MathML rendering solution..."
+  * [SnuggleTeX](http://www2.ph.ed.ac.uk/snuggletex/documentation/overview-and-features.html) "SnuggleTeX is a free and open-source Java library for converting fragments of LaTeX to XML (usually XHTML + MathML)."
 
 ### Graphics Libraries for General Purpose Languages
   * [Matplotlib](http://matplotlib.org/) "a python 2D plotting library which produces publication quality figures"
