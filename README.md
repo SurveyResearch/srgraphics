@@ -44,6 +44,8 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
   * [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) Scaleable Vector Graphics
 
 #### Other:
+  * [D3](http://d3js.org/) - data-driven documents, "D3.js is a JavaScript library for manipulating documents based on data. "
+  * [Vega](https://github.com/trifacta/vega) A visualization grammar.  "Vega is a visualization grammar, a declarative format for creating and saving visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG."
   * [Processing](http://processing.org/) & [processing.js](http://processingjs.org/)
   * [GLE](http://glx.sourceforge.net/)
   * [JLatexMath](http://forge.scilab.org/index.php/p/jlatexmath/) "JLaTeXMath is a Java library. Its main purpose is to display mathematical formulas written in LaTeX. JLaTeXMath is the best Java library to display LaTeX code."
