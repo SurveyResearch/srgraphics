@@ -70,6 +70,11 @@ Then there's Postscript, which is a stack language with "backwards" syntax - fir
   * [GraphicsMagick](http://www.graphicsmagick.org/) - terrific set of very powerful command line tools - "the swiss army knife of image processing".  GraphicsMagick is a fork of an older project called [ImageMagick](http://www.imagemagick.org/).  They're very similar, but the buzz on the web is that GraphicsMagick is faster.
   * [ESS](http://ess.r-project.org/) "Emacs Speaks Statistics ... an add-on package for emacs text editors such as GNU Emacs and XEmacs. It is designed to support editing of scripts and interaction with various statistical analysis programs such as R, S-Plus, SAS, Stata and JAGS."
 
+### Math rendering
+
+* [fMath](http://www.fmath.info/) Flash and javascript library
+* [MathJax](http://www.mathjax.org/) Javascript display engine
+
 ### Statistics, Data Visualization
 
   * [Comparison of statistical packages](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)
